@@ -26,6 +26,7 @@ requirements:
     - perl-test-fatal
   run:
     - perl
+    - perl-module-runtime
 
 test:
   imports:
